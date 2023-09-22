@@ -4,7 +4,6 @@ App creation using Flutter and Dart.
  - [Download Flutter](https://docs.flutter.dev/get-started/install/windows)
  - [Download Dart - (Chocolatey)](https://dart.dev/get-dart/archive)
  - [Download GitBash](https://gitforwindows.org/)
- - [Android Studio](https://developer.android.com/studio)
 
 ## YouTube
  - [How To Install Flutter For Windows - Build Flutter Apps 1](https://youtu.be/D4nhaszNW4o)
