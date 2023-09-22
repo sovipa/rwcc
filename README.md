@@ -1,5 +1,5 @@
 # RWCC App creation
-Participants: Soham, Akshit, Aditya
+Participants: Soham, Akshith, Aditya
 
 ## App creation using Flutter and Dart: Step-by-step *(pretty much)*
 
