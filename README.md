@@ -16,10 +16,10 @@ Participants: Soham, Akshith, Aditya
  - Google Codelabs: [Your 1st flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#2)
  - Flutter Codelabs: [Get started notes](https://docs.flutter.dev/get-started/codelab)
 
-### Topic
+## Topic
 "Probability for a safer world" **(confirm with ma'am)**
 
-### VS code
+## VS code
 *# (Downlaod if not on PC already)*
 
  - After done with Step 1 (and 0), open VS code.
@@ -27,6 +27,15 @@ Participants: Soham, Akshith, Aditya
  - Type 'flutter' and select - 'Flutter: New Project'.
  - Then select 'Application' (**for learning**).
  - Select the Folder in which u wanna create the project.
+
+### Install the VS Code Flutter extension
+
+   - Start VS Code.
+   - Open a browser and go to the [Flutter extension page](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) on the Visual Studio Marketplace.
+   - Click Install. Installing the Flutter extension also installs the Dart extension.
+
+### Doctor
+Run 'flutter doctor'
 
 You should see something like this in the VS code output section:
 
