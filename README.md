@@ -17,7 +17,7 @@ Participants: Soham, Akshith, Aditya
  - Flutter Codelabs: [Get started notes](https://docs.flutter.dev/get-started/codelab)
 
 ## Topic
-"Probability for a safer world" **(confirm with ma'am)**
+"Possibilities for a safer world" **(confirm with ma'am)**
 
 ## VS code
 *# (Downlaod if not on PC already)*
