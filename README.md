@@ -15,6 +15,7 @@ Participants: Soham, Akshith, Aditya
  - Youtube: [Flutter Basics by a REAL Project - 2023](https://youtu.be/VFDbZk2xhO4)
  - Google Codelabs: [Your 1st flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#2)
  - Flutter Codelabs: [Get started notes](https://docs.flutter.dev/get-started/codelab)
+ - [Building your first Flutter App - with a Codelab!](https://www.youtube.com/watch?v=8sAyPDLorek&t=300s)
 
 ## Topic
 "Possibilities for a safer world" **(confirm with ma'am)**
