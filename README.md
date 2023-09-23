@@ -20,19 +20,20 @@ Participants: Soham, Akshith, Aditya
 "Possibilities for a safer world" **(confirm with ma'am)**
 
 ## VS code
+
+### Install the VS Code Flutter extension
+
 *# (Downlaod if not on PC already)*
+
+   - Start VS Code.
+   - Open a browser and go to the [Flutter extension page](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) on the Visual Studio Marketplace.
+   - Click Install. Installing the Flutter extension also installs the Dart extension.
 
  - After done with Step 1 (and 0), open VS code.
  - Use shortcut key - Ctrl+Shift+P.
  - Type 'flutter' and select - 'Flutter: New Project'.
  - Then select 'Application' (**for learning**).
  - Select the Folder in which u wanna create the project.
-
-### Install the VS Code Flutter extension
-
-   - Start VS Code.
-   - Open a browser and go to the [Flutter extension page](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) on the Visual Studio Marketplace.
-   - Click Install. Installing the Flutter extension also installs the Dart extension.
 
 ### Doctor
 Run 'flutter doctor'
