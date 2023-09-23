@@ -28,7 +28,6 @@ Participants: Soham, Akshith, Aditya
  - Start VS Code.
  - Open a browser and go to the [Flutter extension page](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) on the Visual Studio Marketplace.
  - Click Install. Installing the Flutter extension also installs the Dart extension.
-
  - After done with Step 1 (and 0), open VS code.
  - Use shortcut key - Ctrl+Shift+P.
  - Type 'flutter' and select - 'Flutter: New Project'.
